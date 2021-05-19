@@ -2,7 +2,15 @@
 
 ### 1.1 What is SaberAPI?
 
-SaberAPI is a small API I (Tetraslam) developed as a small project to learn. It allows you to access information about the 7 different forms of lightsaber fighting through simple web browser requests.
+SaberAPI is a small API I (Tetraslam) developed as a small project to learn. It allows you to access information about the 7 different forms of lightsaber fighting through simple web browser requests. You can install it with `pip install SaberAPI`.
+
+To run it, open cmd and type in each of the lines below:
+```
+$ python
+>>> from SaberAPI import api
+>>> api.runprogram()
+```
+This will print a series of messages and an **IP address**. Copy and paste it into your browser, and the API's homepage will open!
 
 ### 1.2 How does it work?
 
