@@ -1,4 +1,4 @@
-class running():
+class running:
     def runthisapp():
         import flask
         from flask import request, jsonify
@@ -169,6 +169,10 @@ class running():
                 if x['id'] == id:
                     results.append(lightsaberforms[x])
             return jsonify(results)
-
+    def startrunning():
         app.run()
-    runthisapp()
+
+x=0
+if x==0:
+    running.runthisapp()
+    running.startrunning()
