@@ -20,5 +20,4 @@ To see each form's details, you can use the IP, with `/form(numberhere)` , for e
 
 
 
-#### Check out my github profile: https://github.com/Tetraslam
 
