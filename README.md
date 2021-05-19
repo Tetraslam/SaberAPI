@@ -10,7 +10,7 @@ $ python
 >>> from SaberAPI import api
 >>> api.runprogram()
 ```
-This will print a series of messages and an **IP address**. Copy and paste it into your browser, and the API's homepage will open!
+This will print a series of messages and an **IP address**. Copy and paste the IP address into your browser, and the API's homepage will open!
 
 ### 1.2 How does it work?
 
